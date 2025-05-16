@@ -1,0 +1,10 @@
+names:
+  0: Greek_Statues
+  1: HassanFathi
+  2: Khonsu
+  3: Ra_Horakhty
+  4: RoyalStatues
+  5: Senenmut
+  6: The_HolyQuran
+  7: statue_ofthe_sphinx
+  8: the_female_peasent

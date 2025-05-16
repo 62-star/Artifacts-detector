@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 9
+names: ['Greek_Statues', 'HassanFathi', 'Khonsu', 'Ra_Horakhty', 'RoyalStatues', 'Senenmut', 'The_HolyQuran', 'statue_ofthe_sphinx', 'the_female_peasent']
+
+roboflow:
+  workspace: rowida-abdelkhalek
+  project: nm-lyqch
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rowida-abdelkhalek/nm-lyqch/dataset/2
